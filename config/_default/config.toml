@@ -1,4 +1,4 @@
-baseurl = "https://amberalpha-doksf.netlify.app/"
+baseurl = "https://anestuk-doksf.netlify.app/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
