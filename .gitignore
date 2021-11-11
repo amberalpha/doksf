@@ -1,5 +1,5 @@
 node_modules/*.*
-!node_modules/@hyas/doks/layouts/
+!node_modules/@hyas/doks/layouts/*.*
 public
 resources
 # Local Netlify folder

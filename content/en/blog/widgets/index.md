@@ -15,6 +15,7 @@ contributors: []
 (cairo 300)
 ![](g050.png)
 
+no csp
 
 ## leaflet
 
